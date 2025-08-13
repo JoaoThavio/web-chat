@@ -14,7 +14,7 @@ O projeto inclui autenticação de usuários, interface amigável e troca de men
 ![Pagina Inicial](static/assets/lchat.png)
 
 ---
-![Pagina do Chat]()
+![Pagina do Chat](static/assets/chat-lchat2.png)
 
 
 ## Como acessar
