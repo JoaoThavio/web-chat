@@ -8,11 +8,19 @@ O projeto inclui autenticação de usuários, interface amigável e troca de men
 - **HTML5** para a estrutura das páginas  
 - **CSS3** para o design e layout da aplicação  
 - **JavaScript** para interatividade e comunicação em tempo real  
-- **SQLite** como banco de dados para armazenar usuários e mensagens  
+- **SQLite** como banco de dados para armazenar usuários e mensagens
+
+## Imagens do projeto
+![Pagina Inicial](static/assets/lchat.png)
+
+---
+![Pagina do Chat](static/assets/chat-lchat.png)
+
 
 ## Como acessar
 A aplicação está hospedada no Render e pode ser acessada pelo link:  
 👉 **[Acessar o Chat](https://web-chat-joao.onrender.com)**
+
 
 ## Funcionalidades
 - Cadastro e login de usuários  
